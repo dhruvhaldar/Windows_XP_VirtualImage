@@ -1,6 +1,6 @@
 # Windows XP Virtual Image
 
-This is a virtual image of Windows XP, suitable for use with VirtualBox or VMWare.
+This is a virtual image of Windows XP, suitable for use with VirtualBox or VMWare. This image comes with extras and doesn't require installation.
 
 ## Usage Instructions
 
@@ -14,9 +14,13 @@ This is a virtual image of Windows XP, suitable for use with VirtualBox or VMWar
 
 4. **Import to Virtual Machine Software**: Import the extracted virtual image into your preferred virtual machine software (VirtualBox preferred).
 
+## User Information
+
+- **Username**: Administrator
+- **User Password**: winxp_virtual_image
+
 ## Important Notes
 
-- Ensure you have the necessary permissions and licenses to use Windows XP.
 - This virtual image is for educational or testing purposes only.
 - Use at your own risk. The creator of this image is not responsible for any damage or data loss.
 
