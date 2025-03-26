@@ -6,7 +6,7 @@ This is a virtual [OVA 2.0](https://www.dmtf.org/standards/ovf) image of Windows
 
 1. **Download the Split Files**: Download all parts of the split archive.
 
-2. **Combine the Files**: Use [7zip](https://7-zip.org/download.html) to combine the split files. Start by extracting `XP.ova.7z.001` into a single archive.
+2. **Combine the Files**: Use [7zip](https://7-zip.org/download.html) to combine the split files. Start by extracting `image/XP.ova.7z.001` into a single archive.
 
 3. **Extract the Image**: Extract the virtual image from the combined archive.
 
