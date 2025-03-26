@@ -1,1 +1,2 @@
-# Windows XP Virtual Image for use with VirtualBox or VMWare
+# Windows XP Virtual Image
+- For use with VirtualBox or VMWare
