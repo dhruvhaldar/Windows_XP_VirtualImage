@@ -1,6 +1,6 @@
 # Windows XP Virtual Image
 
-This is a virtual image of Windows XP, suitable for use with VirtualBox or VMWare. This image comes with extras and doesn't require installation.
+This is a virtual [OVA 2.0](https://www.dmtf.org/standards/ovf) image of Windows XP, suitable for use with VirtualBox or VMWare. This image comes with extras and doesn't require installation.
 
 ## Usage Instructions
 
