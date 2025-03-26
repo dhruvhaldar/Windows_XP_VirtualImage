@@ -19,6 +19,10 @@ This is a virtual [OVA 2.0](https://www.dmtf.org/standards/ovf) image of Windows
 - **Username**: Administrator
 - **User Password**: winxp_virtual_image
 
+## Screenshot
+
+![Screenshot](Screenshot.png)
+
 ## Important Notes
 
 - This virtual image is for educational or testing purposes only.
